@@ -1,0 +1,50 @@
+﻿category,product_name,price_eur,unit_price_eur_per_l,deposit_eur
+Beer,"Becks Pils 0,5l Dose (4,9% vol.)",1.09,2.18,0.25
+Beer,"Becks Pils 0,5l Dose (4,9% vol.) x20",20.71,2.07,5.0
+Beer,"Becks Pils 0,5l Dose (4,9% vol.) x4",4.14,2.07,1.0
+Beer,"Becks Pils 6x0,33l (4,9% vol.)",5.03,2.54,0.48
+Beer,"Becks Pils 6x0,33l (4,9% vol.) x2",10.06,2.54,0.96
+Beer,"Corona Extra 6x0,355l (4,5% vol.)",7.99,3.75,0.48
+Beer,"Paderborner Pilsener Dose 0,5l (4,8% vol.)",0.99,1.98,0.25
+Beer,"Paulaner Weißbier Naturtrüb 0,5l (5,5 % vol.) MW",1.59,3.18,0.08
+Beer,"5,0 Original Pils Dose 0,5l (4,9% vol.)",0.69,1.38,0.25
+Beer,"Altenauer Harzer Pilsener 0,33l (5% vol.) MW",1.27,3.85,0.08
+Beer,"Astra Rakate 0,33l (5,9% vol.) MW",1.29,3.91,0.08
+Beer,"Astra Urtyp 0,33l (4,9 % vol.) MW",1.19,3.61,0.08
+Beer,"BRLO Happy Pils 0,33l (4,9% vol.) MW",1.35,4.09,0.08
+Beer,"Becks Gold 0,33l MW",1.29,3.91,0.08
+Beer,"Becks Gold 0,5l (4,9% vol.) MW",1.39,2.78,0.08
+Water,Adelholzener Classic 1l MW,0.89,0.89,0.15
+Water,Adelholzener Naturell 1l MW,0.99,0.99,0.15
+Water,Adelholzener Naturell 1l MW x6,5.64,0.94,0.9
+Water,Adelholzener Sanft 1l MW,0.89,0.89,0.15
+Water,Alasia Perle Still 1l,0.59,0.59,0.15
+Water,Aqua Vitale Classic 1l MW,0.69,0.69,0.15
+Water,Aqua Vitale Medium 1l MW,0.79,0.79,0.15
+Water,Aqua Vitale Naturelle 1l MW,0.69,0.69,0.15
+Water,Aqua Vitale Naturelle 1l MW x6,3.93,0.66,0.9
+Water,Azur Mineralwasser Spritzig 1l MW,0.59,0.59,0.15
+Drink,"Red Bull Energy Drink Original 0,25l",1.79,7.16,0.25
+Drink,"Coca Cola Dose 0,33l",1.09,3.3,0.25
+Drink,"Coca Cola Dose 0,33l x12",12.43,3.14,3.0
+Drink,"Coca Cola Dose 0,33l x6",6.21,3.14,1.5
+Drink,"Coca Cola Zero Dose 0,33l",1.09,,0.25
+Drink,"Pepsi Zero 1,25l",1.35,1.08,0.25
+Drink,1.25LPLBTN X1 Coke Zero LMN,1.79,1.43,
+Drink,"Coca Cola 0,33l MW",1.39,4.21,0.15
+Drink,"Coca Cola 1,5l",1.29,0.86,0.25
+Drink,Coca Cola 1l,1.59,1.59,0.25
+Drink,Coca Cola 1l Mehrweg MW,1.79,1.79,0.15
+Drink,"Coca-Cola 0,85l",1.39,1.64,0.25
+Drink,"Coca-Cola Zero 0,85l",1.39,1.64,0.25
+Drink,Coca-Cola Zero Lemon 1l Mehrweg,1.89,1.89,0.15
+Drink,"Coca-Cola Zero Sugar 1,5l",1.79,1.19,0.25
+Drink,Deit Cola Mix 1l,1.39,1.39,0.15
+Drink,"Dr Pepper 0,33l Dose",1.29,3.91,0.25
+Drink,"Dr Pepper Cherry 0,33l Dose",1.29,3.91,0.25
+Drink,"Dr Pepper Vanilla Float 0,33l Dose",1.29,3.91,0.25
+Drink,"Dr Pepper Zero 0,33l Dose",1.29,3.91,0.25
+Drink,Fanta Orange Zero 1l MW,1.89,1.89,0.25
+Drink,"28 Black Acai 0,25l",1.79,7.16,0.25
+Drink,"28 Black Acai Zero 0,25l",1.79,7.16,0.25
+Drink,"Bullit Energydrink Dose 0,33l",0.39,1.18,0.25

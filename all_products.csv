@@ -1,0 +1,81 @@
+product_id,category,product_name,package_size,price_eur,deposit_eur,contains_alcohol,source,price_type
+B001,Beer,"Becks Pils 0,5l Dose",0.5 L,1.09,0.25,Yes,Flink Germany website,Listed price; may change
+B002,Beer,"Becks Pils 6x0,33l",1.98 L,6.29,0.48,Yes,Flink Germany website,Listed price; may change
+B003,Beer,"Jever Pilsener 0,33l MW",0.33 L,1.19,0.08,Yes,Flink Germany website,Listed price; may change
+B004,Beer,"Karlsberg Mixery Ice 0,33L",0.33 L,1.19,0.08,Yes,Flink Germany website,Listed price; may change
+B005,Beer,"Karlsberg Pilsener 0,33l",0.33 L,0.99,0.08,Yes,Flink Germany website,Listed price; may change
+B006,Beer,"Krombacher Pils 0,5l MW",0.5 L,1.19,0.08,Yes,Flink Germany website,Listed price; may change
+B007,Beer,"Krombacher Pils Dose 0,5l",0.5 L,1.09,0.25,Yes,Flink Germany website,Listed price; may change
+B008,Beer,"Kronen Pilsener 0,5l MW",0.5 L,1.09,0.08,Yes,Flink Germany website,Listed price; may change
+B009,Beer,"Veltins Pilsener 0,5l MW",0.5 L,1.29,0.08,Yes,Flink Germany website,Listed price; may change
+B010,Beer,"Veltins Pilsener Dose 0,5l",0.5 L,1.09,0.25,Yes,Flink Germany website,Listed price; may change
+B011,Beer,"Veltins V+ Energy 0,33l",0.33 L,0.99,0.08,Yes,Flink Germany website,Listed price; may change
+B012,Beer,"Waldhaus Pils 0,5l MW",0.5 L,1.19,0.08,Yes,Flink Germany website,Listed price; may change
+B013,Beer,"Warsteiner 0,33l MW",0.33 L,1.19,0.08,Yes,Flink Germany website,Listed price; may change
+B014,Beer,"Warsteiner 0,5l MW",0.5 L,1.19,0.08,Yes,Flink Germany website,Listed price; may change
+B015,Beer,"Warsteiner Premium Pilsener Dose 0,5l",0.5 L,1.19,0.25,Yes,Flink Germany website,Listed price; may change
+B016,Beer,"Welde No.1 Premium Pils 0,5l MW",0.5 L,1.39,0.08,Yes,Flink Germany website,Listed price; may change
+B017,Beer,"Wicküler Pilsener 6x0,33l",1.98 L,4.39,0.48,Yes,Flink Germany website,Listed price; may change
+B018,Beer,"Wolters Pilsener 0,33l",0.33 L,0.99,0.08,Yes,Flink Germany website,Listed price; may change
+B019,Beer,"Wulle Vollbier Hell 0,5l MW",0.5 L,1.29,0.08,Yes,Flink Germany website,Listed price; may change
+B020,Beer,"Zappes Hell 0,33l MW",0.33 L,1.19,0.08,Yes,Flink Germany website,Listed price; may change
+W001,Water,Caldener Klassik 1l MW,1.0 L,1.09,0.08,No,Flink Germany website,Listed price; may change
+W002,Water,Caldener Medium 1l MW,1.0 L,1.09,0.08,No,Flink Germany website,Listed price; may change
+W003,Water,Caldener Sanft 1l MW,1.0 L,1.09,0.08,No,Flink Germany website,Listed price; may change
+W004,Water,"Carolinen Mineralwasser Classic 0,5l",0.5 L,0.79,0.25,No,Flink Germany website,Listed price; may change
+W005,Water,Carolinen Mineralwasser Classic 1l,1.0 L,0.99,0.25,No,Flink Germany website,Listed price; may change
+W006,Water,"Carolinen Mineralwasser Medium 0,5l",0.5 L,0.79,0.25,No,Flink Germany website,Listed price; may change
+W007,Water,Carolinen Mineralwasser Medium 1l,1.0 L,0.99,0.25,No,Flink Germany website,Listed price; may change
+W008,Water,Christinen Babywasser 1l,1.0 L,0.99,0.0,No,Flink Germany website,Listed price; may change
+W009,Water,"Christinen Medium 0,5L MW",0.5 L,0.89,0.25,No,Flink Germany website,Listed price; may change
+W010,Water,"Elisabethen Quelle Mineralwasser Pur 0,75L MW",0.75 L,1.09,0.25,No,Flink Germany website,Listed price; may change
+W011,Water,Evian Premium 1L MW,1.0 L,1.29,0.25,No,Flink Germany website,Listed price; may change
+W012,Water,Forstetal Mineralwasser Classic 0.75l,0.75 L,0.69,0.25,No,Flink Germany website,Listed price; may change
+W013,Water,Forstetal Mineralwasser Medium 0.75l,0.75 L,0.59,0.25,No,Flink Germany website,Listed price; may change
+W014,Water,Forstetal Mineralwasser Pure 0.75l,0.75 L,0.89,0.25,No,Flink Germany website,Listed price; may change
+W015,Water,Magnus Mineralwasser Still 1l MW,1.0 L,0.89,0.25,No,Flink Germany website,Listed price; may change
+W016,Water,"Merkur Medium Natürliches Mineralwasser 0,7l",0.7 L,0.69,0.25,No,Flink Germany website,Listed price; may change
+W017,Water,"REWE Beste Wahl Mineralwasser Classic 0,5l",0.5 L,0.29,0.25,No,Flink Germany website,Listed price; may change
+W018,Water,"San Pellegrino Mineralwasser Medium 0,5l",0.5 L,0.89,0.25,No,Flink Germany website,Listed price; may change
+W019,Water,Selters Medium 1l MW,1.0 L,0.79,0.25,No,Flink Germany website,Listed price; may change
+W020,Water,Spreequell Medium 1l MW,1.0 L,0.79,0.25,No,Flink Germany website,Listed price; may change
+J001,Juice,Happy Day Ananas 1l,1.0 L,2.89,0.0,No,Flink Germany website,Listed price; may change
+J002,Juice,Happy Day Apfel Naturtrüb 1l,1.0 L,2.89,0.0,No,Flink Germany website,Listed price; may change
+J003,Juice,Happy Day Banane 1l,1.0 L,2.89,0.0,No,Flink Germany website,Listed price; may change
+J004,Juice,Happy Day Cranberry 1l,1.0 L,2.89,0.0,No,Flink Germany website,Listed price; may change
+J005,Juice,Happy Day Erdbeere 1l,1.0 L,2.89,0.0,No,Flink Germany website,Listed price; may change
+J006,Juice,Happy Day Litschi 1l,1.0 L,2.89,0.0,No,Flink Germany website,Listed price; may change
+J007,Juice,Happy Day Mango 1l,1.0 L,2.89,0.0,No,Flink Germany website,Listed price; may change
+J008,Juice,Happy Day Maracuja Passionfruit 1l,1.0 L,2.89,0.0,No,Flink Germany website,Listed price; may change
+J009,Juice,Happy Day Milde Orange 1l,1.0 L,2.89,0.0,No,Flink Germany website,Listed price; may change
+J010,Juice,Happy Day Rhabarber 1l,1.0 L,2.89,0.0,No,Flink Germany website,Listed price; may change
+J011,Juice,Happy Day Tomate 1l,1.0 L,2.89,0.0,No,Flink Germany website,Listed price; may change
+J012,Juice,Granini Trinkgenuss Apfel-Kirsch 1l,1.0 L,3.29,0.0,No,Flink Germany website,Listed price; may change
+J013,Juice,Granini Trinkgenuss Pfirsich 1l,1.0 L,3.29,0.0,No,Flink Germany website,Listed price; may change
+J014,Juice,Hohes C Milder Apfel 100% Saft 1l,1.0 L,3.29,0.0,No,Flink Germany website,Listed price; may change
+J015,Juice,Hohes C Multivitamin 1l 100% Saft,1.0 L,3.29,0.0,No,Flink Germany website,Listed price; may change
+J016,Juice,Hohes C Plus Eisen 1l 100% Saft,1.0 L,3.29,0.0,No,Flink Germany website,Listed price; may change
+J017,Juice,Hohes C Plus Sonnenvitamin D 1l 100% Saft,1.0 L,3.29,0.0,No,Flink Germany website,Listed price; may change
+J018,Juice,Hohes C Orange 1l,1.0 L,3.39,0.0,No,Flink Germany website,Listed price; may change
+J019,Juice,Innocent Direktsaft Multi Mix Orange 900ml,0.9 L,4.19,0.25,No,Flink Germany website,Listed price; may change
+J020,Juice,Innocent Direktsaft Orange mit Fruchtfleisch 900ml,0.9 L,4.29,0.25,No,Flink Germany website,Listed price; may change
+E001,Energy Drink,"Red Bull Energy Drink Original 0,25l",0.25 L,1.79,0.25,No,Flink Germany website,Listed price; may change
+E002,Energy Drink,"Red Bull Energy Drink Sugarfree 0,25l",0.25 L,1.79,0.25,No,Flink Germany website,Listed price; may change
+E003,Energy Drink,"Red Bull Energy Drink Zero 0,25l",0.25 L,1.79,0.25,No,Flink Germany website,Listed price; may change
+E004,Energy Drink,"28 Black Acai 0,25l",0.25 L,1.79,0.25,No,Flink Germany website,Listed price; may change
+E005,Energy Drink,"28 Black Acai Zero 0,25l",0.25 L,1.79,0.25,No,Flink Germany website,Listed price; may change
+E006,Energy Drink,"Bullit Energydrink Dose 0,33l",0.33 L,0.39,0.25,No,Flink Germany website,Listed price; may change
+E007,Energy Drink,"Bullit Energydrink Sugar Free Dose 0,33l",0.33 L,0.49,0.25,No,Flink Germany website,Listed price; may change
+E008,Energy Drink,"Dirtea Tea & Energy Mango Coconut Dose 0,5l",0.5 L,1.79,0.25,No,Flink Germany website,Listed price; may change
+E009,Energy Drink,"Dirtea Tea & Energy Wet Peach Dose 0,5l",0.5 L,1.79,0.25,No,Flink Germany website,Listed price; may change
+E010,Energy Drink,"Effect Black Acai 0,25l Dose",0.25 L,0.99,0.25,No,Flink Germany website,Listed price; may change
+E011,Energy Drink,"Effect Energy 0,25l",0.25 L,1.19,0.25,No,Flink Germany website,Listed price; may change
+E012,Energy Drink,Effect Energy 1l,1.0 L,3.19,0.25,No,Flink Germany website,Listed price; may change
+E013,Energy Drink,Hohes C Energy Water 0.75l,0.75 L,1.89,0.0,No,Flink Germany website,Listed price; may change
+E014,Energy Drink,"Hohes C Super Shot Energy 0,33l",0.33 L,3.19,0.25,No,Flink Germany website,Listed price; may change
+E015,Energy Drink,"Powerade Mountain Blast 0,5l",0.5 L,1.49,0.25,No,Flink Germany website,Listed price; may change
+E016,Energy Drink,"Gatorade Blue Bolt 0,5l",0.5 L,1.69,0.25,No,Flink Germany website,Listed price; may change
+E017,Energy Drink,"Gatorade Lemon 0,5l",0.5 L,1.69,0.25,No,Flink Germany website,Listed price; may change
+E018,Energy Drink,"Gatorade Zero Fruit Punch 0,5l",0.5 L,1.69,0.25,No,Flink Germany website,Listed price; may change
+E019,Energy Drink,"Gatorade Zero Orange 0,5l",0.5 L,1.69,0.25,No,Flink Germany website,Listed price; may change
+E020,Energy Drink,Hohes C Energy Water 0.75l Orange-Maracuja,0.75 L,1.89,0.0,No,Flink Germany website,Listed price; may change

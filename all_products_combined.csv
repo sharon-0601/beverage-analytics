@@ -1,0 +1,163 @@
+category,product_name,price_eur,deposit_eur,city
+Beer,"Becks Pils 0,5l Dose (4,9% vol.)",1.09,0.25,Karlsruhe
+Beer,"Becks Pils 0,5l Dose (4,9% vol.) x20",20.71,5.0,Karlsruhe
+Beer,"Becks Pils 0,5l Dose (4,9% vol.) x4",4.14,1.0,Karlsruhe
+Beer,"Becks Pils 6x0,33l (4,9% vol.)",5.03,0.48,Karlsruhe
+Beer,"Becks Pils 6x0,33l (4,9% vol.) x2",10.06,0.96,Karlsruhe
+Beer,"Corona Extra 6x0,355l (4,5% vol.)",7.99,0.48,Karlsruhe
+Beer,"Paderborner Pilsener Dose 0,5l (4,8% vol.)",0.99,0.25,Karlsruhe
+Beer,"Paulaner Weißbier Naturtrüb 0,5l (5,5 % vol.) MW",1.59,0.08,Karlsruhe
+Beer,"5,0 Original Pils Dose 0,5l (4,9% vol.)",0.69,0.25,Karlsruhe
+Beer,"Altenauer Harzer Pilsener 0,33l (5% vol.) MW",1.27,0.08,Karlsruhe
+Beer,"Astra Rakate 0,33l (5,9% vol.) MW",1.29,0.08,Karlsruhe
+Beer,"Astra Urtyp 0,33l (4,9 % vol.) MW",1.19,0.08,Karlsruhe
+Beer,"BRLO Happy Pils 0,33l (4,9% vol.) MW",1.35,0.08,Karlsruhe
+Beer,"Becks Gold 0,33l MW",1.29,0.08,Karlsruhe
+Beer,"Becks Gold 0,5l (4,9% vol.) MW",1.39,0.08,Karlsruhe
+Water,Adelholzener Classic 1l MW,0.89,0.15,Karlsruhe
+Water,Adelholzener Naturell 1l MW,0.99,0.15,Karlsruhe
+Water,Adelholzener Naturell 1l MW x6,5.64,0.9,Karlsruhe
+Water,Adelholzener Sanft 1l MW,0.89,0.15,Karlsruhe
+Water,Alasia Perle Still 1l,0.59,0.15,Karlsruhe
+Water,Aqua Vitale Classic 1l MW,0.69,0.15,Karlsruhe
+Water,Aqua Vitale Medium 1l MW,0.79,0.15,Karlsruhe
+Water,Aqua Vitale Naturelle 1l MW,0.69,0.15,Karlsruhe
+Water,Aqua Vitale Naturelle 1l MW x6,3.93,0.9,Karlsruhe
+Water,Azur Mineralwasser Spritzig 1l MW,0.59,0.15,Karlsruhe
+Drink,"Red Bull Energy Drink Original 0,25l",1.79,0.25,Karlsruhe
+Drink,"Coca Cola Dose 0,33l",1.09,0.25,Karlsruhe
+Drink,"Coca Cola Dose 0,33l x12",12.43,3.0,Karlsruhe
+Drink,"Coca Cola Dose 0,33l x6",6.21,1.5,Karlsruhe
+Drink,"Coca Cola Zero Dose 0,33l",1.09,0.25,Karlsruhe
+Drink,"Pepsi Zero 1,25l",1.35,0.25,Karlsruhe
+Drink,1.25LPLBTN X1 Coke Zero LMN,1.79,,Karlsruhe
+Drink,"Coca Cola 0,33l MW",1.39,0.15,Karlsruhe
+Drink,"Coca Cola 1,5l",1.29,0.25,Karlsruhe
+Drink,Coca Cola 1l,1.59,0.25,Karlsruhe
+Drink,Coca Cola 1l Mehrweg MW,1.79,0.15,Karlsruhe
+Drink,"Coca-Cola 0,85l",1.39,0.25,Karlsruhe
+Drink,"Coca-Cola Zero 0,85l",1.39,0.25,Karlsruhe
+Drink,Coca-Cola Zero Lemon 1l Mehrweg,1.89,0.15,Karlsruhe
+Drink,"Coca-Cola Zero Sugar 1,5l",1.79,0.25,Karlsruhe
+Drink,Deit Cola Mix 1l,1.39,0.15,Karlsruhe
+Drink,"Dr Pepper 0,33l Dose",1.29,0.25,Karlsruhe
+Drink,"Dr Pepper Cherry 0,33l Dose",1.29,0.25,Karlsruhe
+Drink,"Dr Pepper Vanilla Float 0,33l Dose",1.29,0.25,Karlsruhe
+Drink,"Dr Pepper Zero 0,33l Dose",1.29,0.25,Karlsruhe
+Drink,Fanta Orange Zero 1l MW,1.89,0.25,Karlsruhe
+Drink,"28 Black Acai 0,25l",1.79,0.25,Karlsruhe
+Drink,"28 Black Acai Zero 0,25l",1.79,0.25,Karlsruhe
+Drink,"Bullit Energydrink Dose 0,33l",0.39,0.25,Karlsruhe
+Drink,"Die Limo von granini Cola- Orange 0,33l",0.95,0.25,Stuttgart
+Drink,"Die Limo von granini Kirsche-Zitrone 0,33l",0.95,0.25,Stuttgart
+Drink,"Die Limo von granini Limette-Zitrone 0,33l",0.95,0.25,Stuttgart
+Drink,Die Limo von granini Limette-Zitrone 1l,1.59,0.25,Stuttgart
+Drink,"Paulaner Cola 0,33l",0.79,0.25,Stuttgart
+Drink,"Paulaner Limo Orange 0,33l",0.79,0.25,Stuttgart
+Drink,"Paulaner Limo Zitrone 0,33l",0.79,0.25,Stuttgart
+Drink,granini die Limo Cola-Orange 1l,1.59,0.25,Stuttgart
+Beer,"Becks unfiltered 0,33l (4,9% vol.) MW",1.03,0.08,Stuttgart
+Beer,"Becks unfiltered 6x0,33l (4,9% vol.)",5.03,0.48,Stuttgart
+Beer,"Franziskaner Weißbier Naturtrüb 0,5l (5% vol.) MW",1.19,0.08,Stuttgart
+Beer,"San Miguel Especial 6x0,33 (5,4% vol.)",5.11,0.48,Stuttgart
+Beer,"Spaten München Alkoholfrei 0,5l",1.11,0.08,Stuttgart
+Beer,"Spaten München Hell 0,5l (5,2% vol.)",1.03,0.08,Stuttgart
+Beer,"Spaten München Hell 0,5l (5,2% vol.) Dose",0.87,0.25,Stuttgart
+Beer,"Spaten Oktoberfestbier 0,5l MW",1.19,0.08,Stuttgart
+Water,Adelholzener Naturell 1l MW x6,5.64,0.9,Stuttgart
+Water,Aqua Vitale Naturelle 1l MW x6,3.93,0.9,Stuttgart
+Water,Carolinen Mineralwasser Classic 1l x6,5.64,0.9,Stuttgart
+Water,Carolinen Mineralwasser Medium 1l x6,5.64,0.9,Stuttgart
+Drink,"7Up Zero 1,25l x6",9.13,1.5,Stuttgart
+Drink,"Bullit Energydrink Dose 0,33l x12",4.45,3.0,Stuttgart
+Drink,"Bullit Energydrink Dose 0,33l x4",1.48,1.0,Stuttgart
+Drink,"Capri Sun Kirsch 10x0,2l x2",8.53,,Stuttgart
+Drink,"Capri Sun Orange & Peach 0,33l x2",2.83,,Stuttgart
+Drink,"Club Mate 0,5l MW 10x",13.2,,Stuttgart
+Drink,136852499 4x,3.17,1.0,Stuttgart
+Beer,"Becks unfiltered 6x0,33l (4,9% vol.) x2",10.06,0.96,Stuttgart
+Drink,Die Limo Zitrone Limette 1l x2,3.18,0.5,Stuttgart
+Drink,"Die Limo von granini Cola- Orange 0,33l x2",1.9,0.5,Stuttgart
+Drink,"Die Limo von granini Kirsche-Zitrone 0,33l x2",1.9,0.5,Stuttgart
+Beer,"Franziskaner Hefe Weissbier 0,5l x3 (5% vol.)",3.58,0.24,Stuttgart
+Drink,"Granini Die Limo Limette-Zitrone 0,33l x2",1.9,0.5,Stuttgart
+Beer,"Becks Pils 0,5l Dose",1.09,0.25,pforzhiem
+Beer,"Becks Pils 6x0,33l",6.29,0.48,pforzhiem
+Beer,"Jever Pilsener 0,33l MW",1.19,0.08,pforzhiem
+Beer,"Karlsberg Mixery Ice 0,33L",1.19,0.08,pforzhiem
+Beer,"Karlsberg Pilsener 0,33l",0.99,0.08,pforzhiem
+Beer,"Krombacher Pils 0,5l MW",1.19,0.08,pforzhiem
+Beer,"Krombacher Pils Dose 0,5l",1.09,0.25,pforzhiem
+Beer,"Kronen Pilsener 0,5l MW",1.09,0.08,pforzhiem
+Beer,"Veltins Pilsener 0,5l MW",1.29,0.08,pforzhiem
+Beer,"Veltins Pilsener Dose 0,5l",1.09,0.25,pforzhiem
+Beer,"Veltins V+ Energy 0,33l",0.99,0.08,pforzhiem
+Beer,"Waldhaus Pils 0,5l MW",1.19,0.08,pforzhiem
+Beer,"Warsteiner 0,33l MW",1.19,0.08,pforzhiem
+Beer,"Warsteiner 0,5l MW",1.19,0.08,pforzhiem
+Beer,"Warsteiner Premium Pilsener Dose 0,5l",1.19,0.25,pforzhiem
+Beer,"Welde No.1 Premium Pils 0,5l MW",1.39,0.08,pforzhiem
+Beer,"Wicküler Pilsener 6x0,33l",4.39,0.48,pforzhiem
+Beer,"Wolters Pilsener 0,33l",0.99,0.08,pforzhiem
+Beer,"Wulle Vollbier Hell 0,5l MW",1.29,0.08,pforzhiem
+Beer,"Zappes Hell 0,33l MW",1.19,0.08,pforzhiem
+Water,Caldener Klassik 1l MW,1.09,0.08,pforzhiem
+Water,Caldener Medium 1l MW,1.09,0.08,pforzhiem
+Water,Caldener Sanft 1l MW,1.09,0.08,pforzhiem
+Water,"Carolinen Mineralwasser Classic 0,5l",0.79,0.25,pforzhiem
+Water,Carolinen Mineralwasser Classic 1l,0.99,0.25,pforzhiem
+Water,"Carolinen Mineralwasser Medium 0,5l",0.79,0.25,pforzhiem
+Water,Carolinen Mineralwasser Medium 1l,0.99,0.25,pforzhiem
+Water,Christinen Babywasser 1l,0.99,0.0,pforzhiem
+Water,"Christinen Medium 0,5L MW",0.89,0.25,pforzhiem
+Water,"Elisabethen Quelle Mineralwasser Pur 0,75L MW",1.09,0.25,pforzhiem
+Water,Evian Premium 1L MW,1.29,0.25,pforzhiem
+Water,Forstetal Mineralwasser Classic 0.75l,0.69,0.25,pforzhiem
+Water,Forstetal Mineralwasser Medium 0.75l,0.59,0.25,pforzhiem
+Water,Forstetal Mineralwasser Pure 0.75l,0.89,0.25,pforzhiem
+Water,Magnus Mineralwasser Still 1l MW,0.89,0.25,pforzhiem
+Water,"Merkur Medium Natürliches Mineralwasser 0,7l",0.69,0.25,pforzhiem
+Water,"REWE Beste Wahl Mineralwasser Classic 0,5l",0.29,0.25,pforzhiem
+Water,"San Pellegrino Mineralwasser Medium 0,5l",0.89,0.25,pforzhiem
+Water,Selters Medium 1l MW,0.79,0.25,pforzhiem
+Water,Spreequell Medium 1l MW,0.79,0.25,pforzhiem
+Juice,Happy Day Ananas 1l,2.89,0.0,pforzhiem
+Juice,Happy Day Apfel Naturtrüb 1l,2.89,0.0,pforzhiem
+Juice,Happy Day Banane 1l,2.89,0.0,pforzhiem
+Juice,Happy Day Cranberry 1l,2.89,0.0,pforzhiem
+Juice,Happy Day Erdbeere 1l,2.89,0.0,pforzhiem
+Juice,Happy Day Litschi 1l,2.89,0.0,pforzhiem
+Juice,Happy Day Mango 1l,2.89,0.0,pforzhiem
+Juice,Happy Day Maracuja Passionfruit 1l,2.89,0.0,pforzhiem
+Juice,Happy Day Milde Orange 1l,2.89,0.0,pforzhiem
+Juice,Happy Day Rhabarber 1l,2.89,0.0,pforzhiem
+Juice,Happy Day Tomate 1l,2.89,0.0,pforzhiem
+Juice,Granini Trinkgenuss Apfel-Kirsch 1l,3.29,0.0,pforzhiem
+Juice,Granini Trinkgenuss Pfirsich 1l,3.29,0.0,pforzhiem
+Juice,Hohes C Milder Apfel 100% Saft 1l,3.29,0.0,pforzhiem
+Juice,Hohes C Multivitamin 1l 100% Saft,3.29,0.0,pforzhiem
+Juice,Hohes C Plus Eisen 1l 100% Saft,3.29,0.0,pforzhiem
+Juice,Hohes C Plus Sonnenvitamin D 1l 100% Saft,3.29,0.0,pforzhiem
+Juice,Hohes C Orange 1l,3.39,0.0,pforzhiem
+Juice,Innocent Direktsaft Multi Mix Orange 900ml,4.19,0.25,pforzhiem
+Juice,Innocent Direktsaft Orange mit Fruchtfleisch 900ml,4.29,0.25,pforzhiem
+Energy Drink,"Red Bull Energy Drink Original 0,25l",1.79,0.25,pforzhiem
+Energy Drink,"Red Bull Energy Drink Sugarfree 0,25l",1.79,0.25,pforzhiem
+Energy Drink,"Red Bull Energy Drink Zero 0,25l",1.79,0.25,pforzhiem
+Energy Drink,"28 Black Acai 0,25l",1.79,0.25,pforzhiem
+Energy Drink,"28 Black Acai Zero 0,25l",1.79,0.25,pforzhiem
+Energy Drink,"Bullit Energydrink Dose 0,33l",0.39,0.25,pforzhiem
+Energy Drink,"Bullit Energydrink Sugar Free Dose 0,33l",0.49,0.25,pforzhiem
+Energy Drink,"Dirtea Tea & Energy Mango Coconut Dose 0,5l",1.79,0.25,pforzhiem
+Energy Drink,"Dirtea Tea & Energy Wet Peach Dose 0,5l",1.79,0.25,pforzhiem
+Energy Drink,"Effect Black Acai 0,25l Dose",0.99,0.25,pforzhiem
+Energy Drink,"Effect Energy 0,25l",1.19,0.25,pforzhiem
+Energy Drink,Effect Energy 1l,3.19,0.25,pforzhiem
+Energy Drink,Hohes C Energy Water 0.75l,1.89,0.0,pforzhiem
+Energy Drink,"Hohes C Super Shot Energy 0,33l",3.19,0.25,pforzhiem
+Energy Drink,"Powerade Mountain Blast 0,5l",1.49,0.25,pforzhiem
+Energy Drink,"Gatorade Blue Bolt 0,5l",1.69,0.25,pforzhiem
+Energy Drink,"Gatorade Lemon 0,5l",1.69,0.25,pforzhiem
+Energy Drink,"Gatorade Zero Fruit Punch 0,5l",1.69,0.25,pforzhiem
+Energy Drink,"Gatorade Zero Orange 0,5l",1.69,0.25,pforzhiem
+Energy Drink,Hohes C Energy Water 0.75l Orange-Maracuja,1.89,0.0,pforzhiem
